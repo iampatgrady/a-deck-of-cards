@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "my-deck-of-cards",
+    "staging": "my-deck-of-cards"
+  }
+}
